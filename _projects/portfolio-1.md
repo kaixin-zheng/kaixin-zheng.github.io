@@ -1,7 +1,27 @@
 ---
-title: "AMATH-732 course project"
+title: "Course Project: AMATH-732 Asymptotic Analysis and Perturbation Theory"
 excerpt: 
 collection: projects
 ---
 
-test
+## Lab Book
+
+A course lab book was prepared, covering advanced applications of asymptotic and perturbation methods.  
+Selected sections address:  
+- Padé approximation and rational extrapolation of asymptotic series  
+- Fourier and spectral methods for oscillatory systems  
+- A mathematical oncology model for the dynamics of drug resistance  
+
+[Lab Book PDF](files/amath732/732_lab_book_kaixin_zheng__final_version.pdf)
+
+---
+
+## Final Oral Presentation
+
+The oral presentation examined the normal modes of \(N\) coupled oscillators.  
+It introduced the governing equations, described a general procedure for obtaining normal mode frequencies, and illustrated the case of four coupled oscillators with explicit mode shapes.  
+
+The analysis showed that the spectrum can be derived directly from the tridiagonal coupling matrix, and that the resulting frequencies follow a predictable spacing pattern controlled by the coupling strength and boundary conditions.  
+
+[Presentation Slides](files/amath732/pre kaixin zheng.pptx.pdf)
+
