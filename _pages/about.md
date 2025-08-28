@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Kaixin's personal website!"
+title: "Welcome to Kaixin's website!"
 author_profile: true
 redirect_from: 
   - /about/
