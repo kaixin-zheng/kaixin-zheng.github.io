@@ -15,6 +15,6 @@ main:
    # url: /talks/    
    
     
-  #- title: "Projects"
-   # url: /portfolio/
+  - title: "Projects"
+    url: /projects/
         
