@@ -16,4 +16,4 @@ Before joining Waterloo, I obtained an Honors Bachelor’s degree in Applied Mat
 
 My main research interests lie in data-driven modeling and scientific computing for biological systems and dynamical systems.
 
-For more details, please see my [CV.](/files/July 7, 2025 kaixin zheng's CV.pdf)
+For more details, please see my [CV.](/files/CV.pdf)
