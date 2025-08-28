@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Kaixin Zheng's Personal Website"
 title_separator          : "-"
 name                     : &name "Kaixin Zheng (郑开心)"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Kaixin Zheng (郑开心)"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "UWaterloo CS PhD student"
   location         : "Waterloo, ON, Canada"
-  employer         : "Red Brick University"
+  employer         : "University of Waterloo"
   uri              : # URL
   email            : "k59zheng@uwaterloo.ca" 
 
