@@ -90,6 +90,8 @@ publication_category:
     title: 'Thesis'
   bookreview:
     title: 'Book Reviews'
+  preprint:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
