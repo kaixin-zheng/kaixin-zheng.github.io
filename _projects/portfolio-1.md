@@ -3,7 +3,7 @@ title: "Course Project: AMATH-732 Asymptotic Analysis and Perturbation Theory"
 excerpt: 
 collection: projects
 ---
-## Course Context – AMATH 732
+## Course Description: AMATH-732 Asymptotic Analysis and Perturbation Theory
 
 Graduate course on asymptotic and perturbation methods, with emphasis on regular and singular perturbations, multiple scales, resonance phenomena, boundary layers, and WKB analysis. Computational tools such as Maple and Matlab are used to support analytic work
 
