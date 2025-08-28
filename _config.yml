@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Kaixin Zheng (郑开心)"
+name                     : 
 description              : &description "personal description"
 url                      : https://kaixin-zheng.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
