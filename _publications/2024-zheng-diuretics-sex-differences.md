@@ -7,5 +7,5 @@ excerpt: 'This paper investigates sex differences in diuretic effects on renal e
 date: 2024-05-01
 venue: 'American Journal of Physiology - Renal Physiology'
 paperurl: 'https://doi.org/10.1152/ajprenal.00398.2023'
-citation: 'Zheng K, Layton AT. (2024). "Predicting sex differences in the effects of diuretics in renal epithelial transport during angiotensin II-induced hypertension." <i>Am J Physiol Renal Physiol</i>, 326(5):F737-F750. doi:10.1152/ajprenal.00398.2023. PMID: 38482554; PMCID: PMC11918343.'
+citation: '<b>Zheng K</b>, Layton AT. (2024). "Predicting sex differences in the effects of diuretics in renal epithelial transport during angiotensin II-induced hypertension." <i>Am J Physiol Renal Physiol</i>, 326(5):F737-F750. doi:10.1152/ajprenal.00398.2023. PMID: 38482554; PMCID: PMC11918343.'
 ---
