@@ -87,9 +87,9 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   thesis:
-    title:'Thesis'
+    title: 'Thesis'
   bookreview:
-    title:'Book Reviews'
+    title: 'Book Reviews'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
