@@ -8,9 +8,12 @@ redirect_from:
 ---
 
 **Biography**
-My name is Kaixin Zheng (郑开心), where my first name means happiness in Mandarin.
-I am a PhD student in Computer Science at [the David R. Cheriton School of Computer Science, University of Waterloo](https://cs.uwaterloo.ca/), supervised by Professor [Anita Layton](https://uwaterloo.ca/applied-mathematics/profiles/anita-layton).
 
-Before joining Waterloo, I obtained an Honors Bachelor’s degree in Applied Mathematics (summa cum laude) from [the Courant Institute of Mathematical Science, New York University](https://math.nyu.edu/dynamic/) in 2022, where I conducted undergraduate research with Professor [David McLaughlin](https://math.nyu.edu/people/profiles/MCLAUGHLIN_David.html).
+My name is Kaixin Zheng (郑开心), where my first name means happiness in Mandarin.
+I am a PhD student in Computer Science at [the David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/), University of Waterloo, supervised by Professor [Anita Layton](https://uwaterloo.ca/applied-mathematics/profiles/anita-layton).
+
+Before joining Waterloo, I obtained an Honors Bachelor’s degree in Applied Mathematics (summa cum laude) from [the Courant Institute of Mathematical Science](https://math.nyu.edu/dynamic/), New York University in 2022, where I conducted undergraduate research with Professor [David McLaughlin](https://math.nyu.edu/people/profiles/MCLAUGHLIN_David.html).
 
 My main research interests lie in data-driven modeling and scientific computing for biological systems and dynamical systems.
+
+For more details, please see my [CV.](/files/July 7, 2025 kaixin zheng's CV.pdf)
