@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kaixin Zheng's Personal Website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kaixin Zheng (郑开心)"
 description              : &description "personal description"
