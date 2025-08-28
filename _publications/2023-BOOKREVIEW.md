@@ -1,7 +1,7 @@
 ---
 title: "Featured Review: Mathematical Modeling for Epidemiology and Ecology"
 collection: publications
-category: conferences
+category: bookreview
 permalink: /publication/2023-zheng-bookreview-epi-eco
 excerpt: "Featured review: Mathematical Modeling Approaches for Epidemiology and Ecology."
 date: 2023-01-01
