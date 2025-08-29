@@ -1,0 +1,28 @@
+---
+layout: single
+title: "Course Project: AMATH-732 Asymptotic Analysis and Perturbation Theory"
+collection: projects
+permalink: /projects/amath732
+excerpt: "Lab book and final oral presentation (selected topics)."
+---
+
+## Course Description
+Graduate course on asymptotic and perturbation methods, with emphasis on regular/singular perturbations, multiple scales, resonance, boundary layers, and WKB. Maple and Matlab are used alongside analysis.
+
+<hr/>
+
+## Lab Book
+Selected topics:
+- Padé approximation and rational extrapolation of asymptotic series
+- Fourier/spectral methods for oscillatory systems
+- Mathematical oncology model of drug-resistance dynamics
+
+[Lab Book PDF]({{ '/files/amath732/732_lab_book_kaixin_zheng__final_version.pdf' | relative_url }})
+
+<hr/>
+
+## Final Oral Presentation
+Normal modes of N coupled oscillators: governing equations, a general procedure for obtaining all mode frequencies, and an explicit four-oscillator example with mode shapes.  
+Conclusion: the spectrum follows from the tridiagonal coupling matrix; frequency spacing is determined by coupling strength and boundary conditions.
+
+[Presentation Slides]({{ '/files/amath732/pre.pdf' | relative_url }})
