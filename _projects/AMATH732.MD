@@ -9,7 +9,7 @@ excerpt: "Lab book and final oral presentation (selected topics)."
 ## Course Description
 Graduate course on asymptotic and perturbation methods, with emphasis on regular/singular perturbations, multiple scales, resonance, boundary layers, and WKB. Maple and Matlab are used alongside analysis.
 
-<hr/>
+---
 
 ## Lab Book
 Selected topics:
@@ -19,7 +19,7 @@ Selected topics:
 
 [Lab Book PDF](https://kaixin-zheng.github.io/files/amath732/732_lab_book_kaixin_zheng__final_version.pdf)
 
-<hr/>
+---
 
 ## Final Oral Presentation
 Normal modes of N coupled oscillators: governing equations, a general procedure for obtaining all mode frequencies, and an explicit four-oscillator example with mode shapes.  
