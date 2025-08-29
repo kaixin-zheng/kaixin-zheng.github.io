@@ -17,7 +17,7 @@ Selected topics:
 - Fourier/spectral methods for oscillatory systems
 - Mathematical oncology model of drug-resistance dynamics
 
-[Lab Book PDF]({{ '/files/amath732/732_lab_book_kaixin_zheng__final_version.pdf' | relative_url }})
+[Lab Book PDF](https://kaixin-zheng.github.io/files/amath732/732_lab_book_kaixin_zheng__final_version.pdf)
 
 <hr/>
 
@@ -25,4 +25,4 @@ Selected topics:
 Normal modes of N coupled oscillators: governing equations, a general procedure for obtaining all mode frequencies, and an explicit four-oscillator example with mode shapes.  
 Conclusion: the spectrum follows from the tridiagonal coupling matrix; frequency spacing is determined by coupling strength and boundary conditions.
 
-[Presentation Slides]({{ '/files/amath732/pre.pdf' | relative_url }})
+[Presentation Slides](https://kaixin-zheng.github.io/files/amath732/pre.pdf)
