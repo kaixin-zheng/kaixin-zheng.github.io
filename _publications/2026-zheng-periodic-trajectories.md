@@ -1,7 +1,7 @@
 ---
 title: "Why Directly Learning Periodic Trajectories Can Fail"
 collection: publications
-category: manuscripts
+category: preprint
 permalink: /publication/2026-zheng-periodic-trajectories
 excerpt: 'Small frequency differences accumulate during long simulations or prediction windows, making periodic trajectories hard to learn. Learning the period and a phase-aligned, normalized waveform separately avoids both failures in the systems studied.'
 date: 2026-09-26
