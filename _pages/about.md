@@ -19,5 +19,6 @@ My main research interests lie in data-driven modeling and scientific computing 
 For more details, please see my [CV](files/cv.pdf) [Sept. 11, 2026 updated].
 
 **News**:
--**Oct 20, 2026** I presented our preprint [Why Directly Learning Periodic Trajectories Can Fail](https://arxiv.org/abs/2609.32254v2) at AI+Science conference 2026 at University of Chicago.
+
+- **Oct 20, 2026** I presented our preprint [Why Directly Learning Periodic Trajectories Can Fail](https://arxiv.org/abs/2609.32254v2) at AI+Science conference 2026 at University of Chicago.
 - **Sept 26, 2026** &mdash; Our preprint [Why Directly Learning Periodic Trajectories Can Fail](https://arxiv.org/abs/2609.32254v2) is on arXiv. It demonstrates a family of coordinate choices in learning periodic solutions has asymptotic prediction error floor for predictors with insufficient sensitivity.
